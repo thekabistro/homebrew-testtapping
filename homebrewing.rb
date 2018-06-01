@@ -4,7 +4,7 @@
 class Homebrewing < Formula
   desc ""
   homepage ""
-  url "https://github.com/thekabistro/homebrewing/archive/v1.0.1.tar.gz"
+  url "https://github.com/thekabistro/homebrewing/archive/v1.0.2.tar.gz"
   sha256 "91b21c56de86941486a86a57c5bbbaa701a50d4843696c817fa42f959d36514d"
   # depends_on "cmake" => :build
 
